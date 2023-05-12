@@ -9,6 +9,7 @@
     - [SGBD PostgreSQL](./Tarea%201%20-%20SGBD%20PostgreSQL.pdf)
     - [Descripción Ejemplo RDB](./Tarea%201%20-%20Descripcion%20Ejemplo%20RDB.pdf)
 - Tarea 2
+    - [Diagrama ER](Tarea%202%20-%20Diagrama%20ER.pdf)
 - Tarea 3
 - Tarea 4
 - Tarea 5
