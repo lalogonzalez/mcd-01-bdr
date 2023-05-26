@@ -11,7 +11,9 @@
 - Tarea 2
     - [Diagrama ER](Tarea%202%20-%20Diagrama%20ER.pdf)
 - Tarea 3
+    - [Operaciones](./Tarea%203%20-%20Operaciones.pdf)
 - Tarea 4
+    - [Esquema](./Tarea%204%20-%20Esquema.pdf)
 - Tarea 5
 - Tarea 6
 - Tarea 7
