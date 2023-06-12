@@ -15,6 +15,7 @@
 - Tarea 4
     - [Esquema](./Tarea%204%20-%20Esquema.pdf)
 - Tarea 5
+    - [Load Into](./Tarea%205%20-%20Load%20Into.pdf)
 - Tarea 6
 - Tarea 7
 - Tarea 8
