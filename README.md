@@ -17,6 +17,7 @@
 - Tarea 5
     - [Load Into](./Tarea%205%20-%20Load%20Into.pdf)
 - Tarea 6
+    - [Esquema](./Tarea%206%20-%20Agregaciones.pdf)
 - Tarea 7
 - Tarea 8
 - Tarea 9
