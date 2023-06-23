@@ -21,5 +21,6 @@
 - Tarea 7
     - [Inconsistencias](./Tarea%206%20-%20Inconsistencias.pdf)
 - Tarea 8
+    - [Vistas & Triggers](./Tarea%206%20-%20Vistas.pdf)
 - Tarea 9
 - Tarea 10
