@@ -1,6 +1,33 @@
 id,nombre,ciudad,conferencia,division
-1,New England Patriots,Foxborough,AFC,Este
-2,Kansas City Chiefs,Kansas City,AFC,Oeste
-3,Seattle Seahawks,Seattle,NFC,Oeste
-4,Dallas Cowboys,Dallas,NFC,Este
-5,Pittsburgh Steelers,Pittsburgh,AFC,Norte
+1,Arizona Cardinals,Arizona,NFC,Oeste
+2,Atlanta Falcons,Atlanta,NFC,Sur
+3,Baltimore Ravens,Baltimore,AFC,Norte
+4,Buffalo Bills,Buffalo,AFC,Este
+5,Carolina Panthers,Carolina,NFC,Sur
+6,Chicago Bears,Chicago,NFC,Norte
+7,Cincinnati Bengals,Cincinnati,AFC,Norte
+8,Cleveland Browns,Cleveland,AFC,Norte
+9,Dallas Cowboys,Dallas,NFC,Este
+10,Denver Broncos,Denver,AFC,Oeste
+11,Detroit Lions,Detroit,NFC,Norte
+12,Green Bay Packers,Green Bay,NFC,Norte
+13,Houston Texans,Houston,AFC,Sur
+14,Indianapolis Colts,Indianapolis,AFC,Sur
+15,Jacksonville Jaguars,Jacksonville,AFC,Sur
+16,Kansas City Chiefs,Kansas City,AFC,Oeste
+17,Los Angeles Chargers,Los Angeles,AFC,Oeste
+18,Los Angeles Rams,Los Angeles,NFC,Oeste
+19,Miami Dolphins,Miami,AFC,Este
+20,Minnesota Vikings,Minnesota,NFC,Norte
+21,New England Patriots,New England,AFC,Este
+22,New Orleans Saints,New Orleans,NFC,Sur
+23,New York Giants,New York,NFC,Este
+24,New York Jets,New York,AFC,Este
+25,Las Vegas Raiders,Las Vegas,AFC,Oeste
+26,Philadelphia Eagles,Philadelphia,NFC,Este
+27,Pittsburgh Steelers,Pittsburgh,AFC,Norte
+28,San Francisco 49ers,San Francisco,NFC,Oeste
+29,Seattle Seahawks,Seattle,NFC,Oeste
+30,Tampa Bay Buccaneers,Tampa Bay,NFC,Sur
+31,Tennessee Titans,Tennessee,AFC,Sur
+32,Washington Football Team,Washington,NFC,Este

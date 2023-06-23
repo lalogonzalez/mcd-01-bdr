@@ -1,6 +1,201 @@
 id,nombre,apellido,posicion,equipo
-1,Tom,Brady,Quarterback,1
-2,Patrick,Mahomes,Quarterback,2
-3,Russell,Wilson,Quarterback,3
-4,Ezekiel,Elliott,Running Back,4
-5,Ben,Roethlisberger,Quarterback,5
+1,Tom,Brady,Quarterback,21
+2,Aaron,Rodgers,Quarterback,12
+3,Russell,Wilson,Quarterback,29
+4,Patrick,Mahomes,Quarterback,16
+5,Dak,Prescott,Quarterback,9
+6,Drew,Brees,Quarterback,22
+7,Ben,Roethlisberger,Quarterback,27
+8,Lamar,Jackson,Quarterback,3
+9,Deshaun,Watson,Quarterback,13
+10,Kyler,Murray,Quarterback,1
+11,Christian,McCaffrey,Running Back,5
+12,Derrick,Henry,Running Back,31
+13,Ezekiel,Elliott,Running Back,9
+14,Saquon,Barkley,Running Back,23
+15,Alvin,Kamara,Running Back,22
+16,Nick,Chubb,Running Back,27
+17,Aaron,Jones,Running Back,12
+18,Joe,Mixon,Running Back,7
+19,Melvin,Gordon,Running Back,17
+20,Josh,Jacobs,Running Back,25
+21,DeAndre,Hopkins,Wide Receiver,1
+22,Davante,Adams,Wide Receiver,12
+23,Stefon,Diggs,Wide Receiver,28
+24,Amari,Cooper,Wide Receiver,9
+25,Tyreek,Hill,Wide Receiver,16
+26,Julio,Jones,Wide Receiver,23
+27,Michael,Thomas,Wide Receiver,22
+28,Chris,Godwin,Wide Receiver,30
+29,Allen,Robinson,Wide Receiver,6
+30,Kenny,Golladay,Wide Receiver,11
+31,George,Kittle,Tight End,28
+32,Travis,Kelce,Tight End,17
+33,Darren,Waller,Tight End,25
+34,Evan,Engram,Tight End,23
+35,T.J.,Hockenson,Tight End,20
+36,Zach,Ertz,Tight End,26
+37,Tyler,Higbee,Tight End,18
+38,Hunter,Henry,Tight End,4
+39,Mark,Andrews,Tight End,3
+40,Noah,Fant,Tight End,10
+41,Chandler,Jones,Defensive End,1
+42,Myles,Garrett,Defensive End,8
+43,Nick,Bosa,Defensive End,28
+44,Khalil,Mack,Defensive End,6
+45,J.J.,Watt,Defensive End,13
+46,Cameron,Jordan,Defensive End,22
+47,T.J.,Watt,Defensive End,27
+48,Joey,Bosa,Defensive End,17
+49,Shaquil,Barrett,Linebacker,30
+50,T.J.,Watt,Linebacker,31
+51,Devin,White,Linebacker,30
+52,Darius,Leonard,Linebacker,14
+53,Bobby,Wagner,Linebacker,29
+54,Fred,Warner,Linebacker,28
+55,Luke,Kuechly,Linebacker,5
+56,Von,Miller,Linebacker,10
+57,Stephon,Gilmore,Cornerback,21
+58,Jalen,Ramsey,Cornerback,18
+59,Xavien,Howard,Cornerback,19
+60,Marlon,Humphrey,Cornerback,3
+61,Marshon,Lattimore,Cornerback,22
+62,Travis,Kelce,Offensive Tackle,17
+63,Trent,Williams,Offensive Tackle,28
+64,David,Bakhtiari,Offensive Tackle,12
+65,Ryan,Ramczyk,Offensive Tackle,18
+66,Laremy,Tunsil,Offensive Tackle,13
+67,Taylor,Lewan,Offensive Tackle,31
+68,Alejandro,Villanueva,Offensive Tackle,27
+69,Tyron,Smith,Offensive Tackle,9
+70,Orlando,Brown,Offensive Tackle,4
+71,Jake,Matthews,Offensive Tackle,2
+72,Quenton,Nelson,Guard,12
+73,Joel,Bitonio,Guard,8
+74,Zack,Martin,Guard,9
+75,Brandon,Scherff,Guard,32
+76,David,DeCastro,Guard,8
+77,Wyatt,Teller,Guard,28
+78,Ali,Marpet,Guard,30
+79,Joe,Thuney,Guard,21
+80,Lane,Johnson,Guard,24
+81,Rodney,Hudson,Center,10
+82,Maurkice,Pouncey,Center,27
+83,Alex,Mack,Center,30
+84,Ryan,Kelly,Center,14
+85,Cody,Whitehair,Center,6
+86,Erik,McCoy,Center,22
+87,Jason,Kelce,Center,32
+88,Lloyd,Cushenberry,Center,16
+89,Mitch,Morse,Center,4
+90,Justin,Tucker,Kicker,3
+91,Harrison,Butker,Kicker,16
+92,Wil,Lutz,Kicker,22
+93,Robbie,Gould,Kicker,28
+94,Younghoe,Koo,Kicker,2
+95,Mason,Crosby,Kicker,12
+96,Justin,Herbert,Quarterback,17
+97,Josh,Allen,Quarterback,4
+98,Matthew,Stafford,Quarterback,18
+99,Jared,Goff,Quarterback,11
+100,Derek,Carr,Quarterback,25
+101,Josh,Allen,Running Back,4
+102,Derrick,Henry,Running Back,31
+103,Alvin,Kamara,Running Back,22
+104,Nick,Chubb,Running Back,27
+105,Christian,McCaffrey,Running Back,5
+106,Ezekiel,Elliott,Running Back,9
+107,Josh,Jacobs,Running Back,25
+108,Aaron,Jones,Running Back,12
+109,Melvin,Gordon,Running Back,17
+110,Joe,Mixon,Running Back,7
+111,DeAndre,Hopkins,Wide Receiver,1
+112,Davante,Adams,Wide Receiver,12
+113,Stefon,Diggs,Wide Receiver,28
+114,Amari,Cooper,Wide Receiver,9
+115,Tyreek,Hill,Wide Receiver,16
+116,Julio,Jones,Wide Receiver,23
+117,Michael,Thomas,Wide Receiver,22
+118,Chris,Godwin,Wide Receiver,30
+119,Allen,Robinson,Wide Receiver,6
+120,Kenny,Golladay,Wide Receiver,11
+121,George,Kittle,Tight End,28
+122,Travis,Kelce,Tight End,17
+123,Darren,Waller,Tight End,25
+124,Evan,Engram,Tight End,23
+125,T.J.,Hockenson,Tight End,20
+126,Zach,Ertz,Tight End,26
+127,Tyler,Higbee,Tight End,18
+128,Hunter,Henry,Tight End,4
+129,Mark,Andrews,Tight End,3
+130,Noah,Fant,Tight End,10
+131,Chandler,Jones,Defensive End,1
+132,Myles,Garrett,Defensive End,8
+133,Nick,Bosa,Defensive End,28
+134,Khalil,Mack,Defensive End,6
+135,J.J.,Watt,Defensive End,13
+136,Cameron,Jordan,Defensive End,22
+137,T.J.,Watt,Defensive End,27
+138,Joey,Bosa,Defensive End,17
+139,Shaquil,Barrett,Linebacker,30
+140,T.J.,Watt,Linebacker,31
+141,Devin,White,Linebacker,30
+142,Darius,Leonard,Linebacker,14
+143,Bobby,Wagner,Linebacker,29
+144,Fred,Warner,Linebacker,28
+145,Luke,Kuechly,Linebacker,5
+146,Von,Miller,Linebacker,10
+147,Stephon,Gilmore,Cornerback,21
+148,Jalen,Ramsey,Cornerback,18
+149,Xavien,Howard,Cornerback,19
+150,Marlon,Humphrey,Cornerback,3
+151,Marshon,Lattimore,Cornerback,22
+152,Kareem,Jackson,Safety,10
+153,Minkah,Fitzpatrick,Safety,27
+154,Derwin,James,Safety,17
+155,Tyrann,Mathieu,Safety,16
+156,Justin,Simmons,Safety,10
+157,Eddie,Jackson,Safety,6
+158,Jesse,Bates,Safety,7
+159,John,Johnson,Safety,30
+160,Budda,Baker,Safety,29
+161,Justin,Tucker,Kicker,3
+162,Harrison,Butker,Kicker,16
+163,Wil,Lutz,Kicker,22
+164,Robbie,Gould,Kicker,28
+165,Younghoe,Koo,Kicker,2
+166,Mason,Crosby,Kicker,12
+167,Jake,Elliott,Kicker,26
+168,Graham,Gano,Kicker,25
+169,Jason,Sanders,Kicker,19
+170,Daniel,Carlson,Kicker,25
+171,Patrick,Mahomes,Quarterback,16
+172,Tom,Brady,Quarterback,21
+173,Aaron,Rodgers,Quarterback,12
+174,Dak,Prescott,Quarterback,9
+175,Russell,Wilson,Quarterback,29
+176,Drew,Brees,Quarterback,22
+177,Ben,Roethlisberger,Quarterback,27
+178,Lamar,Jackson,Quarterback,3
+179,Deshaun,Watson,Quarterback,13
+180,Kyler,Murray,Quarterback,1
+181,Ezekiel,Elliott,Running Back,9
+182,Derrick,Henry,Running Back,31
+183,Alvin,Kamara,Running Back,22
+184,Nick,Chubb,Running Back,27
+185,Christian,McCaffrey,Running Back,5
+186,Aaron,Jones,Running Back,12
+187,Joe,Mixon,Running Back,7
+188,Josh,Jacobs,Running Back,25
+189,Saquon,Barkley,Running Back,23
+190,Melvin,Gordon,Running Back,17
+191,DeAndre,Hopkins,Wide Receiver,1
+192,Davante,Adams,Wide Receiver,12
+193,Stefon,Diggs,Wide Receiver,28
+194,Amari,Cooper,Wide Receiver,9
+195,Tyreek,Hill,Wide Receiver,16
+196,Julio,Jones,Wide Receiver,23
+197,Michael,Thomas,Wide Receiver,22
+198,Chris,Godwin,Wide Receiver,30
+199,Allen,Robinson,Wide Receiver,6
+200,Kenny,Golladay,Wide Receiver,11
