@@ -19,8 +19,8 @@
 - Tarea 6
     - [Agregaciones](./Tarea%206%20-%20Agregaciones.pdf)
 - Tarea 7
-    - [Inconsistencias](./Tarea%206%20-%20Inconsistencias.pdf)
+    - [Inconsistencias](./Tarea%207%20-%20Inconsistencias.pdf)
 - Tarea 8
-    - [Vistas & Triggers](./Tarea%206%20-%20Vistas.pdf)
+    - [Vistas & Triggers](./Tarea%208%20-%20Vistas.pdf)
 - Tarea 9
 - Tarea 10
