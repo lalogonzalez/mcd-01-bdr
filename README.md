@@ -25,3 +25,4 @@
 - Tarea 9
     - [Stored Procedures](./Tarea%209%20-%20Stored%20Procedures.pdf)
 - Tarea 10
+    - [Python](./Tarea%2010%20-%20Python.ipynb)
